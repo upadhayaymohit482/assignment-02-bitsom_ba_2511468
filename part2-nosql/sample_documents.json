@@ -1,0 +1,73 @@
+[
+  {
+    "_id": "P101",
+    "name": "Samsung Smart TV 55 inch",
+    "category": "Electronics",
+    "price": 55000,
+    "brand": "Samsung",
+    "warranty_years": 2,
+    "specifications": {
+      "resolution": "4K UHD",
+      "voltage": "220V",
+      "screen_type": "LED"
+    },
+    "features": [
+      "Smart TV",
+      "WiFi Enabled",
+      "Dolby Audio"
+    ],
+    "stock": 25
+  },
+  {
+    "_id": "P201",
+    "name": "Men's Cotton T-Shirt",
+    "category": "Clothing",
+    "price": 799,
+    "brand": "Nike",
+    "material": "Cotton",
+    "sizes_available": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "variants": [
+      {
+        "size": "M",
+        "color": "Black",
+        "stock": 10
+      },
+      {
+        "size": "L",
+        "color": "White",
+        "stock": 5
+      }
+    ],
+    "care_instructions": "Machine wash"
+  },
+  {
+    "_id": "P301",
+    "name": "Amul Milk 1L",
+    "category": "Groceries",
+    "price": 60,
+    "brand": "Amul",
+    "expiry_date": "2024-12-30",
+    "weight": "1L",
+    "nutrition": {
+      "calories": 150,
+      "protein": "8g",
+      "fat": "8g"
+    },
+    "storage_instructions": "Keep refrigerated",
+    "tags": [
+      "dairy",
+      "fresh",
+      "daily-use"
+    ]
+  }
+]
